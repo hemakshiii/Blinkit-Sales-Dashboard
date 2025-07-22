@@ -14,4 +14,5 @@ Power BI dashboard project analyzing Blinkit sales data, showcasing data cleanin
 - **DAX** – Calculated columns and custom KPIs
 
 # Screenshot
-- Dashboard Overview (https://github.com/hemakshiii/Blinkit-Sales-Dashboard/blob/main/blinkit-dashboard-overview.png)
+- ![Blinkit Dashboard](blinkit-dashboard-overview.png)
+
