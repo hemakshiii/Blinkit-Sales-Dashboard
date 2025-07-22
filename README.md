@@ -12,3 +12,6 @@ Power BI dashboard project analyzing Blinkit sales data, showcasing data cleanin
 - **Excel** – Data cleaning and preparation  
 - **Power BI** – Dashboard creation and data visualization  
 - **DAX** – Calculated columns and custom KPIs
+
+# Screenshot
+- Dashboard Overview (https://github.com/hemakshiii/Blinkit-Sales-Dashboard/blob/main/blinkit-dashboard-overview.png)
